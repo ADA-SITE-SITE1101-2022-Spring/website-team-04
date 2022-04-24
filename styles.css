@@ -1,7 +1,17 @@
 .salam{
     text-align: center;
+    color:rgb(198, 72, 72);
+    
+}
+img.image{
+    border-radius: 30%;
+    top: 0;
+    left: 0;
+    position: relative;
+    opacity: 0.8;
+    border: 5px burlywood solid;
+    
 }
 *{
-    background-image:-webkit-linear-gradient();
     background-color: burlywood;
 };
