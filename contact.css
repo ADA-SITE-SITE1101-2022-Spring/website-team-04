@@ -11,17 +11,17 @@
    background-color: darkorange;
   }
   .fa-facebook {
-    background: #3B5998;
+    background: rgb(41, 115, 194);
     color: white;
     margin: 10px;
   }
   .fa-instagram {
-    background: #eb2405;
+    background: rgb(227, 14, 14);
     color: white;
     margin: 10px;
   }
   .fa-github {
-    background: #0c0c0c;
+    background: rgb(15, 14, 14);
     color: white;
     margin: 10px;
     }
