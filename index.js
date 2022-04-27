@@ -1,4 +1,3 @@
-
 window.onload = function() 
 { 
   document.getElementsByClassName('transition')

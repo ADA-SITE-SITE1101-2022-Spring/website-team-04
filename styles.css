@@ -78,9 +78,7 @@ ul{
     color: rgb(250, 249, 249);
     transform: rotateY(180deg);
   }
-
   .rotator {
-
     width: 300px;
     height: 100px;
     margin: 50px 20px;
@@ -111,5 +109,4 @@ ul{
   @keyframes rotator {
     0%   { transform: rotateX(0deg)    rotateY(0deg);    }
     100% { transform: rotateX(1080deg) rotateY(360deg);  }
-
-  }
+      }
